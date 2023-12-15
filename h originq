@@ -1,0 +1,67 @@
+[33mcommit ab77e8a5856046d9c84cd84d604662e756941b3d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 7c19923 81c16de
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Thu Dec 14 13:49:49 2023 +0900
+
+    A
+
+[33mcommit 7c19923c77d6e807bea456afb7683951cc8a5331[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Thu Dec 14 13:45:00 2023 +0900
+
+    aaaaa
+
+[33mcommit 81c16de7d7602c7270c55b0cea7b1ef5df87aab5[m[33m ([m[1;32mconflict_branch2[m[33m)[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Thu Dec 14 13:39:19 2023 +0900
+
+    aaaaaaaaaaaaa
+
+[33mcommit 4043697f8bcc13134056bdcbbf1089d9fb704c21[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Thu Dec 14 13:37:19 2023 +0900
+
+    aaaaaaaa
+
+[33mcommit 5297db2cd0c4e2101c0c712f6c1c29620a4ccd8a[m
+Merge: 33bc6d1 7a903b1
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Thu Dec 14 13:19:57 2023 +0900
+
+    aaaaa
+
+[33mcommit 33bc6d1963f8cca021b2506306637fabe4d368df[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Wed Dec 13 20:22:46 2023 +0900
+
+    aaaaaaaaaa
+
+[33mcommit 30c5450626c10813f3952be9f2b22566e05f9b08[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Wed Dec 13 20:13:14 2023 +0900
+
+    コンフリクトを起こしてみる
+
+[33mcommit 7a903b19a082610f3b89007f228165f6f206b8d7[m[33m ([m[1;32mconflict_branch[m[33m)[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Wed Dec 13 20:09:31 2023 +0900
+
+    2023/12/13_2
+
+[33mcommit 599c6fe54a3c9bb9957c46e7bdc04e72aec7b9ca[m[33m ([m[1;32mnew_branch[m[33m)[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Wed Dec 13 20:07:22 2023 +0900
+
+    2023/12/13
+
+[33mcommit f3037fdc01cc88d596bf5477d0ad91143c3fd57c[m[33m ([m[1;31morigin/new_branch[m[33m)[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Wed Dec 13 13:48:31 2023 +0900
+
+    2023/12/13
+
+[33mcommit ab40ea0e37a693411401ac4dcc660df06abc7202[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: gp-y-yoshida <yoshida_y@gp1000.jp>
+Date:   Wed Dec 13 12:57:55 2023 +0900
+
+    2023/12/13
